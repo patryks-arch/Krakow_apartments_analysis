@@ -1,0 +1,7 @@
+CREATE TABLE mieszkania_krakow (
+    tytul TEXT,
+    cena BIGINT,
+    metraz REAL,
+    dzielnica TEXT,
+    cena_m2 REAL
+);
